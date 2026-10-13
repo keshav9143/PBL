@@ -1,0 +1,12 @@
+Flask
+Flask-Cors
+Flask-JWT-Extended
+Flask-Limiter
+SQLAlchemy
+Flask-SQLAlchemy
+Flask-Migrate
+psycopg[binary]
+redis
+pytest
+pytest-cov
+ruff
