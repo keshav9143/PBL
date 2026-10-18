@@ -22,3 +22,17 @@ dist/
 # IDE settings
 .idea/
 .vscode/
+
+# Generated frontend build
+frontend/dist/
+
+# Local environment files
+.env
+.env.*
+!.env.example
+backend/.env
+frontend/.env
+
+# Temporary backup files
+*.backup
+*.bak
